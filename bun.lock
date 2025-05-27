@@ -1,0 +1,19 @@
+{
+  "lockfileVersion": 1,
+  "workspaces": {
+    "": {
+      "dependencies": {
+        "chalk": "^5.4.1",
+        "osu-api-extended": "^3.1.4",
+        "osu-web.js": "^2.6.0",
+      },
+    },
+  },
+  "packages": {
+    "chalk": ["chalk@5.4.1", "", {}, "sha512-zgVZuo2WcZgfUEmsn6eO3kINexW8RAE4maiQ8QNs8CtpPCSyMiYsULR3HQYkm3w8FIA3SberyMJMSldGsW+U3w=="],
+
+    "osu-api-extended": ["osu-api-extended@3.1.4", "", {}, "sha512-EW6e13CuhafCU/XzKfbtj8zaPnZe46r8HnaQNVBr363O1HfP29dHQLx2ZckmLTWLB0TAq5n+GPu18R1kqfTD+g=="],
+
+    "osu-web.js": ["osu-web.js@2.6.0", "", {}, "sha512-XGhraa3AaSTNadZIjJPAygY6CzENvtuognH3E3tNCK2a+PloKD/jhuShszgh185P+BZIckZKLPardj6y83+a9g=="],
+  }
+}

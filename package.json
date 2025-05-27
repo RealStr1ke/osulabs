@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "osu-api-extended": "^3.1.4",
+    "osu-web.js": "^2.6.0"
+  }
+}
